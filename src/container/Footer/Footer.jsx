@@ -35,7 +35,7 @@ const Footer = () => (
             Working Hours
           </h1>
           <p className="p__opensans">Monday-Friday:</p>
-          <p className="p__opensans">08:00 am - 12:00 am</p>
+          <p className="p__opensans">08:00 am - 12:00 am text</p>
           <p className="p__opensans">Saturday-Sunday:</p>
           <p className="p__opensans">07:00am - 11:00 pm</p>
        </div>
